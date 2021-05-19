@@ -1,2 +1,6 @@
 Arquivo A
+<<<<<<< HEAD
 israel adicionando
+=======
+mods gabriel
+>>>>>>> 4dcdf30a0f34c2dde6c5efe2c6d8b97a12db4444
